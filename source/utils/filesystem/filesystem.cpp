@@ -18,7 +18,8 @@
  *
  ***************************************************************************/
 
-
+#include "../../poro/platform_defs.h"
+#include "../logger/logger.h"
 #include "filesystem.h"
 
 
